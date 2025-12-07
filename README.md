@@ -30,4 +30,3 @@ to build strong skills and start my career as a Web Developer.
 Feel free to reach out:  
 **GitHub:** *alexvoutsas-dev*  
 
-✨ *Building step-by-step. The journey just started.*
