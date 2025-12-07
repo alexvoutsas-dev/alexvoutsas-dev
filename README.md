@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Alex!
 
-<!--
-**alexvoutsas-dev/alexvoutsas-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Web Developer** from Greece, currently learning  
+**HTML, CSS, JavaScript and React** and building real-world projects step-by-step.
 
-Here are some ideas to get you started:
+## 🚀 What I'm focusing on right now
+- Strengthening HTML & CSS fundamentals  
+- Learning JavaScript (DOM, events, functions, APIs)  
+- Building small projects to grow my portfolio  
+- Preparing to learn React for front-end development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 My background
+I'm transitioning into tech and putting consistent effort every day  
+to build strong skills and start my career as a Web Developer.
+
+## 🛠 Skills (in progress)
+- HTML5  
+- CSS3  
+- JavaScript  
+- Git / GitHub  
+- React (coming soon)
+
+## 🎯 Goals for 2025
+- Build 5+ quality projects  
+- Create a full portfolio website  
+- Apply for Junior Developer positions  
+- Keep improving daily  
+
+## 📫 Contact
+Feel free to reach out:  
+**GitHub:** *alexvoutsas-dev*  
+
+✨ *Building step-by-step. The journey just started.*
