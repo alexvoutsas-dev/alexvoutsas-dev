@@ -20,7 +20,7 @@ to build strong skills and start my career as a Web Developer.
 - Git / GitHub  
 - React (coming soon)
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 - Build 5+ quality projects  
 - Create a full portfolio website  
 - Apply for Junior Developer positions  
